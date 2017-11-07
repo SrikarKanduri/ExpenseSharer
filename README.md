@@ -1,2 +1,2 @@
 # ExpenseSharer
-My First Android App
+Share your bills and expenses!
